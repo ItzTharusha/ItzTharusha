@@ -27,7 +27,7 @@
   - ✅ **Leadership & Initiative**
   - ✅ **Adaptability & Problem Solving**
   - ✅ **Critical Thinking & Communication**
-- 🎯 Focused on: Web Development, Game Design, UI/UX, Debugging, Agile Workflow  
+- 🎯 Focused on: Web Development, Game Development, UI/UX, Debugging, Agile Workflow  
 
 ---
 
