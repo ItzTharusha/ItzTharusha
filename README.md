@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Tharusha</h1>
-<h3 align="center">💻 Software Engineering Student | 🎓 HND in Computing & Software Engineering at Pearson </h3>
+<h3 align="center">💻 Software Engineering Student | HND in Computing & Software Engineering (Pearson) </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;Passionate+about+learning+and+building" alt="Typing SVG" />
