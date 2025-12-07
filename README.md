@@ -9,7 +9,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I’m currently pursuing a **Higher National Diploma (HND)** in **Computing & Software Engineering** at **ESU (ESOFT University)**, Sri Lanka  
+- 🎓 I’m currently pursuing a **Higher National Diploma (HND)** in **Computing & Software Engineering**
 - 🌍 Program awarded by **Pearson Edexcel UK**  
 - 🧠 Always eager to explore new tech and improve my development skills and to be a game developer in the future 
 - 🎥 I also enjoy **video editing** and content creation using **Filmora**  
