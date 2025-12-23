@@ -30,14 +30,6 @@
 - 🎯 Focused on: Web Development, Game Development, UI/UX, Debugging, Agile Workflow  
 
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Tharusha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### Let's Connect
 
